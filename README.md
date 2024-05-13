@@ -10,3 +10,4 @@ Simple and easy to use.
 run npm i && npm start 
 
 # Demo
+https://react-advice-gen-app.netlify.app/
